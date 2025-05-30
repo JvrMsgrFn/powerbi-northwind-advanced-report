@@ -1,3 +1,4 @@
+
 # 📊 Power BI – Informe basado en Northwind (Proyecto personal)
 
 Este informe fue desarrollado como proyecto individual durante una formación interna sobre Power BI, utilizando la base de datos pública **Northwind**, comúnmente usada para aprendizaje y pruebas.
@@ -18,9 +19,20 @@ El informe está dividido en 4 secciones principales:
 
 Se incluyen más de **500 líneas de código DAX** distribuidas en múltiples tablas de medidas, optimizadas para reusabilidad y claridad.
 
+## 🖼️ Vistas del informe
+
+| Ventas | Logística |
+|--------|-----------|
+| ![Ventas](./capturas/ventas.png) | ![Logística](./capturas/logistica.png) |
+
+| Inventario | Clientes |
+|------------|----------|
+| ![Inventario](./capturas/inventario.png) | ![Clientes](./capturas/clientes.png) |
+
 ## 🤝 Colaboración
 
-Algunas visualizaciones específicas de la página de clientes fueron diseñadas en colaboración con una compañera durante una sesión conjunta de práctica.
+La mayoría de las medidas, estructura del modelo de datos y diseño visual fueron desarrollados individualmente.  
+La sección **Clientes** incluye dos visualizaciones diseñadas en colaboración con una compañera durante una sesión de práctica conjunta.
 
 ## 🔐 Notas sobre privacidad
 
@@ -28,12 +40,8 @@ Este repositorio es privado y se utiliza como parte de un portafolio técnico.
 No contiene datos reales ni material confidencial de empresa.  
 Todos los datos provienen de la base pública **Northwind**.
 
-## 🖼️ Capturas de ejemplo
-
-*(Opcional: puedes añadir capturas de las páginas aquí o en la carpeta `capturas/`)*
-
 ## 📁 Archivos incluidos
 
-- `Informe Northwind.pbix` – Informe completo
+- `Informe Northwind.pbix` – Informe completo en Power BI
 - `README.md` – Documentación técnica
-
+- `capturas/` – Imágenes por pestaña del informe (opcional)
