@@ -29,6 +29,12 @@ Se incluyen más de **500 líneas de código DAX** distribuidas en múltiples ta
 |------------|----------|
 | ![Inventario](./capturas/inventario.png) | ![Clientes](./capturas/clientes.png) |
 
+## 🧩 Modelo de datos
+
+Este informe está basado en un modelo relacional con tablas conectadas según buenas prácticas de modelado en Power BI.
+
+![Modelo de datos](./capturas/modelo-datos.png)
+
 ## 🤝 Colaboración
 
 La mayoría de las medidas, estructura del modelo de datos y diseño visual fueron desarrollados individualmente.  
@@ -44,4 +50,4 @@ Todos los datos provienen de la base pública **Northwind**.
 
 - `Informe Northwind.pbix` – Informe completo en Power BI
 - `README.md` – Documentación técnica
-- `capturas/` – Imágenes por pestaña del informe (opcional)
+- `capturas/` – Imágenes por pestaña del informe
